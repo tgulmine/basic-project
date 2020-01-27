@@ -1,1 +1,1 @@
-Basic project empty with eslint and prettier setup.
+React boilerplate in typescript with reacstrap, eslint and prettier setup.
